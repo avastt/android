@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UtfprGym</string>
+    <string name="limpar">Limpar</string>
+    <string name="email">Email</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="nome">Nome</string>
+    <string name="campos_limpos">Campos Limpos</string>
+    <string name="mostrar_selecionados">Mostrar Selecionados</string>
+    <string name="segunda">Segunda</string>
+    <string name="terca">Terca</string>
+    <string name="quarta">Quarta</string>
+    <string name="quinta">Quinta</string>
+    <string name="sexta">Sexta</string>
+    <string name="sabado">Sabado</string>
+    <string name="domingo">Domingo</string>
+    <string name="nenhuma_opcao_selecionada">Nenhuma opção selecionada</string>
+    <string name="foram_selecionados">Foram selecionados</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="mostrar_selecionado">Mostrar Selecionado</string>
+    <string name="dias_de_treino">Dias de Treino</string>
+    <string name="genero">Genero</string>
+    <string name="salvar">Salvar</string>
+    <string name="utfprgym">UtfprGym</string>
+    <string name="utfitpr">UtFITpr</string>
+    <string name="foi_selecionado">Foi Selecionado</string>
+    <string name="nenhuma_academia_selecionada">Nenhuma Academia Selecionada</string>
+    <string name="campo_text_vazio">Campo Nome ou Email não foi preenchido</string>
+    <string name="campo_check_box_ou_radio_group_vazio">Campo CheckBox ou RadioButton não foi preenchido</string>
+    <string name="academia">Academia</string>
+    <string name="foi_clicado">" foi clicado!"</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="exemplo_transicao_activities">Exemplo de transição de activities</string>
+    <string name="autor">Autor: Igor da Silva Frey</string>
+    <string name="meu_email">igorfrey@alunos.utfpr.edu.br</string>
+    <string name="funcionalidade_app">App para disciplina Android</string>
+    <string name="curso">Pós Tecnologia Java</string>
+
+</resources>

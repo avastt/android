@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomes">
+        <item>Marcio</item>
+        <item>Jo0ao</item>
+        <item>Caio</item>
+        <item>Eduardo</item>
+        <item>Isadora</item>
+        <item>Patrícia</item>
+        <item>Bruno</item>
+        <item>Leticia</item>
+        <item>Claudia</item>
+        <item>Laura</item>
+    </string-array>
+    <string-array name="emails">
+        <item>marcio123@hotmail.com</item>
+        <item>joao.pedro@hotmail.com</item>
+        <item>caio_xx@outlook.com</item>
+        <item>edu2000@outlook.com</item>
+        <item>isaead@gmail.com</item>
+        <item>patri2006@hotmail.com</item>
+        <item>bru222@hotmail.com</item>
+        <item>let777@outlook.com</item>
+        <item>claudiassv@yahoo.com</item>
+        <item>laura.jardim@gmail.com</item>
+    </string-array>
+    <string-array name="academias">
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+        <item>utfitpr</item>
+    </string-array>
+    <string-array name="generos">
+        <item>masculino</item>
+        <item>masculino</item>
+        <item>masculino</item>
+        <item>masculino</item>
+        <item>feminino</item>
+        <item>feminino</item>
+        <item>masculino</item>
+        <item>feminino</item>
+        <item>feminino</item>
+        <item>feminino</item>
+    </string-array>
+</resources>
